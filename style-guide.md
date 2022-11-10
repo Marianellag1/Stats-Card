@@ -11,14 +11,18 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Very dark blue (main background): hsl(233, 47%, 7%)
+- Very dark blue (main background): hsl(233, 47%, 7%) 
+<!-- done -->
 - Dark desaturated blue (card background): hsl(244, 38%, 16%)
+<!-- done -->
 - Soft violet (accent): hsl(277, 64%, 61%)
 
 ### Neutral
 
 - White (main heading, stats): hsl(0, 0%, 100%)
+<!-- done -->
 - Slightly transparent white (main paragraph): hsla(0, 0%, 100%, 0.75)
+<!-- done -->
 - Slightly transparent white (stat headings): hsla(0, 0%, 100%, 0.6)
 
 ## Typography
@@ -26,6 +30,7 @@ The designs were created to the following widths:
 ### Body Copy
 
 - Font size: 15px
+<!-- done -->
 
 ### Font
 
