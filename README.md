@@ -27,6 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/110939445/201132980-cc84fc30-43a2-4c15-8ec8-4b68fc86b976.png)
 
 ![screenshot](./Assets/images/rename.png)
 
