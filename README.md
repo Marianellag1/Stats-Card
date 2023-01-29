@@ -14,7 +14,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 
+![screenshot](./Assets/images/rename.png)
 
 ### Links
 
@@ -65,7 +66,3 @@ As the user can see, I couldn't make the image with the violet tint. I will have
 - GitHub - [Marianella](https://github.com/Marianellag1)
 - Frontend Mentor - [@Mgamboa](https://www.frontendmentor.io/profile/Marianellag1)
 
-
-## Acknowledgments
-
-Bootcamp helped a lot, as well as little tips from frontend mentors who saw previous challenges, and helped me understand what I can do better.

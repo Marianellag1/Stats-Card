@@ -1,8 +1,14 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
 
 * {
-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -20,17 +26,21 @@ body {
 .column {
     float: left;
     width: 50%;
-    padding: 10px;
     height: 300px;
 }
 
 .column img {
-    width: 340px;
-  filter: sepia(100%);
+    width: 363px;
+    filter: opacity(0.5);
 }
 
-div.column {
+.first{
+    width: 403px;
+}
+
+.image {
     width: fit-content;
+
 }
 
 .row::after {
@@ -39,12 +49,12 @@ div.column {
     clear: both;
 }
 
-.column {
-    background-color:  hsl(244, 38%, 16%);
+.first {
+    background-color: hsl(244, 38%, 16%);
 }
 
 .column h1 {
-    color:  hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 100%);
     font-family: 'Inter', sans-serif;
     font-weight: 700;
 }
@@ -70,14 +80,14 @@ div.column {
 
 
 p.numbers {
-    color:  hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 100%);
     font-weight: 700;
     margin: 1px;
 }
 
 
 p.text {
-    color:  hsla(0, 0%, 100%, 0.6);
+    color: hsla(0, 0%, 100%, 0.6);
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -92,4 +102,3 @@ p.text {
     color: white;
     text-align: center;
 }
-
