@@ -40,7 +40,12 @@ body {
 
 .image {
     width: fit-content;
+    /* mix-blend-mode: multiply; */
+/* becomes a darker shade?? */
+}
 
+.pic {
+background-color: #7f14ac;
 }
 
 .row::after {
